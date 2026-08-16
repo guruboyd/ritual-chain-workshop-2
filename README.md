@@ -1,4 +1,13 @@
 # Ritual Predict
+Bootcamp Level 2 Assignment – Completed
+
+Participant: [guruboyd]
+Date: August 16, 2026
+
+Reviewed the full self-resolving prediction market flow.
+Understood Scheduler, HTTP precompile, jq extraction and retry logic.
+Project prepared for mainnet.
+# Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
 
